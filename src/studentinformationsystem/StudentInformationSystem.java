@@ -12,8 +12,8 @@ public class StudentInformationSystem {
     public static void main(String[] args) {
 
         // Student information
-        String name = "Your Name";
-        String studentID = "Your Student ID";
+        String name = "Iman Thaqif";
+        String studentID = "S88847";
 
         // Store two marks
         int mark1 = 85;
@@ -28,6 +28,7 @@ public class StudentInformationSystem {
 
         System.out.println("Name: " + name);
         System.out.println("Student ID: " + studentID);
+        System.out.println("Programme: Bachelor of Computer Science");
 
         System.out.println("Mark 1: " + mark1);
         System.out.println("Mark 2: " + mark2);
